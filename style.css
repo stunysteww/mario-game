@@ -1,0 +1,13 @@
+/* Created by Logi*/
+
+*{
+    padding: 0px;
+    width: 100%;
+    margin: 0px;
+    height: 100%;
+}
+canvas {
+    width: 100vp;
+    height: 100vp;
+    display: block;
+}
